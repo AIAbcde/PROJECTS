@@ -1,0 +1,18 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="src/LCD.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.v" type="file.verilog" enable="1"/>
+        <File path="src/ledmngt.v" type="file.verilog" enable="0"/>
+        <File path="src/spiled.v" type="file.verilog" enable="1"/>
+        <File path="src/spislave.v" type="file.verilog" enable="0"/>
+        <File path="src/uart_rx.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_tx.v" type="file.verilog" enable="1"/>
+        <File path="src/initial_3.cst" type="file.cst" enable="1"/>
+        <File path="src/initial_3.rao" type="file.gao" enable="1"/>
+    </FileList>
+</Project>
