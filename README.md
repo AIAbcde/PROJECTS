@@ -25,6 +25,9 @@ The **ABCDE Board** (short for *Any Buddy Can Design Electronics*) is a custom F
 - **LED_MANAGEMENT/**  
   Includes multiple LED control modules such as blinking patterns, binary counters, and status indicators.
 
+- **7_SEG/**
+  7 segment display the up-counter and down-counter and the,calender can be achieved
+
 ---
 
 ## 🛠️ Technologies Used
